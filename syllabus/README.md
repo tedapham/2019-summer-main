@@ -24,7 +24,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * Tuesday 6:30 - 8p Pacific (Mike Tamir and James Kunz)
 * Thursday 4 - 5:30p Pacific (Joachim Rahmfeld)
 * Thursday 6:30 - 8p Pacific (Mark Butler)
-* Saturday 10a - 11:30a Pacific (Sid J Reddy)
+* Friday 10a - 11:30a Pacific (Sid J Reddy)
 
 **Teaching Staff Office Hours:**
 
@@ -32,7 +32,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Legg Yeung**: TBD
 * **Joachim Rahmfeld**: Thursday immediately after his live session
 * **Mark Butler**: Thursday immediately after his live session
-* **Sid J Reddy**: Saturday immediately after his live session
+* **Sid J Reddy**: Friday immediately after his live session
 * **James Kunz**: Tuesday immediately after his live session
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
